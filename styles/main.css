@@ -143,5 +143,8 @@ select {
   body{
     padding: 20px;
   }
+   form input.todo-input {
+    width: 100%; /* Adjust the width as needed */
+  }
 }
 
